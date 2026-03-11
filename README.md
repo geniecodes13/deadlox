@@ -1,0 +1,2 @@
+# deadlox
+The Smart Maze Escape Game is a logic-based game featuring random maze generation and dynamic levels. The player must escape the maze using limited energy and moves, choosing optimal paths while avoiding penalties. A scoring system evaluates performance, and a hint system provides guidance at a cost. The game also supports saving progress using file handling. This project highlights the use of decision logic, randomization, and file management in an interactive application.
